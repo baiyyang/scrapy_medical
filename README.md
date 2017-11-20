@@ -30,4 +30,4 @@
  
  # other
  该工程的爬虫是按照疾病的拼音，爬取所有的疾病信息，包括：病因，概述，症状，化验检查，治疗方法，并发症，如何预防，饮食保健。数据最终存储在本地的mongodb中，格式如下：
- ![](https://github.com/baiyyang/scrapy_medical/mongodb_data.png)
+ ![](https://github.com/baiyyang/scrapy_medical/blob/master/mongodb_data.png)
